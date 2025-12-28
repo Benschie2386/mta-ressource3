@@ -1,0 +1,8 @@
+<meta>
+    <info author="Du" version="1.0" type="script" />
+
+    <file src="541.txd" />
+    <file src="541.dff" />
+    
+    <script src="replace.lua" type="client" />
+</meta>
